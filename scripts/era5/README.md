@@ -14,7 +14,7 @@ Variables include:
 
 Rainfall is estimated using temperature-based precipitation phase partitioning.
 
-## Input Data
+## Input
 
 ERA5 reanalysis products from the European Centre for Medium-Range Weather Forecasts (ECMWF):
 
